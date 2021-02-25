@@ -1,0 +1,33 @@
+body{
+    background-color: #2d2d34;
+}
+header{
+    margin: 20px 10px;
+    text-align: center;
+    font-style: italic;
+    color: wheat;
+}
+.form-survey{
+    max-width: 600px;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: goldenrod
+}
+.form-survey p{
+    font-size: large;
+    font-weight: 700;
+}
+#box{
+    border-radius: 10px;
+}
+.btn1{
+    border-radius: 10px;
+    width: 100%
+}
+footer{
+    margin: 20px;
+    text-align: center;
+    color: wheat;
+    font-size: xx-small;
+}
